@@ -5,7 +5,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/assisDev/Starla?style=for-the-badge)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/71731452/111244354-7d39ae00-85e1-11eb-9e44-b1116645414e.png" alt="Starla" float="rigth" width="400"> 
+  <img src="https://user-images.githubusercontent.com/71731452/111244354-7d39ae00-85e1-11eb-9e44-b1116645414e.png" alt="Starla" float="rigth" width="200"> 
 </p>
 
 # Ola 👋, me chamo Starla.
@@ -16,6 +16,12 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/71731452/111242959-f4ba0e00-85de-11eb-873b-32ca87556165.gif" alt="gif-explicativa" width="200">
 </p>
+
+## Arquiterura geral
+
+> [Documento sobre arquiteturas](https://drive.google.com/file/d/1iJHGVcge4Pn8ckB2VLRm_KTyLVuoggwk/view?usp=sharing)
+
+<img src="https://user-images.githubusercontent.com/65235458/142352457-e346d997-69b7-48c9-aafd-98aadc47a368.png" alt="gif-explicativa" width="700">
 
 ## 💻 Pré-requisitos
 
@@ -70,12 +76,6 @@ Comandos no chat privado:
 > `Mande videos, gifs e imagens para receber uma figurinha`
 
 <img src="https://user-images.githubusercontent.com/71731452/125382658-71ca7980-e36c-11eb-81af-01106799f032.gif" alt="exemplo-privado" width="200">
-
-## 🗃️ Diagrama
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/65235458/141867787-eb567b0b-8299-478c-98b7-006326178cd8.jpg" alt="arquitetura" width="500">
-</p>
 
 ## 🤝 Colaboradores
 
